@@ -7,11 +7,14 @@ This repository contains my internship assignment with three tasks:
 
 ## Repository Structure
 Internship-Assignment-Data-Analyst/
+│
 ├── Task-1_Data-Analyst-Role/
+│
 ├── Task-2_Excel-Analysis/
+│
 ├── Task-3_PowerBI-Dashboard/
+│
 └── Final_Report.md
-
 ## Author
 **Vaibhav Vikas Ranjan**  
 B.Tech | Data Science & Artificial Intelligence
