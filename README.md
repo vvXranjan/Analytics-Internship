@@ -6,3 +6,12 @@ This repository contains my internship assignment with three tasks:
 3. **Task 3** – An interactive Power BI dashboard built using the same dataset.  
 
 ## Repository Structure
+Internship-Assignment-Data-Analyst/
+├── Task-1_Data-Analyst-Role/
+├── Task-2_Excel-Analysis/
+├── Task-3_PowerBI-Dashboard/
+└── Final_Report.md
+
+## Author
+**Vaibhav Vikas Ranjan**  
+B.Tech | Data Science & Artificial Intelligence
